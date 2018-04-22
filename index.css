@@ -1,0 +1,47 @@
+@font-face{
+    font-family: valencia;
+    src: url(Awesome_Birds.ttf)
+}
+body{
+    background-image: url(fallasmenu.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.side{
+    top: auto;
+    width: 50%;
+    height: 100%;
+}
+#right{
+    float: right;
+}
+#left{
+    float:right;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    margin-top:40%;
+    
+}
+p{
+    position: fixed;
+    text-align: right;
+    bottom: 20;
+    right: 8;
+    color: aliceblue;
+}
+#sp{
+    position: fixed;
+    text-align: right;
+    bottom: 0;
+    right: 8;
+    color: aliceblue;
+}
+img{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
